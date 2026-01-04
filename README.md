@@ -1,3 +1,5 @@
+Nazil_Ashraf_Data_Analyst_CV (2)
+
 # data-analytics-projects
 Beginner data analysis projects using Python, SQL, and Excel
 # Data Analytics Projects
